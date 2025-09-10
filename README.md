@@ -9,7 +9,7 @@ a)
 Implementerer en metoden evenNumbers, så den returnerer summen af alle lige tal mellem
 2 og 100, begge inklusiv.
 
-Resultatet skulle gerne være 2450.
+Resultatet skulle gerne være 2550.
 
 b)
 
@@ -107,6 +107,8 @@ Hintet fra opgave 6 kan også bruges her.
 Et pallidrom tal er et heltal som er ens hvad enten det læses fra højre eller fra venstre.
 
 Så 34543 og 9779 er palidromer, men 37723 er ikke.
+
+Lav en metode der kontrollere om et tal er et pallidrom tal.
 
 ### Opgave 9* - approximerer $pi$ 
 
