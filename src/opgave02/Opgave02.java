@@ -18,12 +18,12 @@ public class Opgave02 {
 
     public static int qubicNumbers(int slutTal) {
         int startTal = 0;
-        int sumQubicNumbers=0;
-        while (Math.pow(startTal,2) < slutTal){
+        int sumQubicNumbers = 0;
+        while (Math.pow(startTal, 2) < slutTal) {
             startTal++;
-            sumQubicNumbers += (int) Math.pow(startTal,2);
+            sumQubicNumbers += (int) Math.pow(startTal, 2);
         }
-            return sumQubicNumbers;
+        return sumQubicNumbers;
 
     }
 }
